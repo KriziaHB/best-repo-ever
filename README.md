@@ -1,2 +1,2 @@
 # best-repo-ever
-for Trailhead 
+Krizia’s example repository for Trailhead 
